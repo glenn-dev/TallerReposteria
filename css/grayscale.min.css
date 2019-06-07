@@ -88,6 +88,7 @@
 }
 
 .masthead {
+    overflow-x: hidden !important;
     position: relative;
     width: 100%;
     height: auto;
@@ -104,7 +105,7 @@
 .masthead h1 {
     padding-top: 100px;
     font-family: 'Varela Round';
-    font-size: 2.5rem;
+    font-size: 2rem;
     line-height: 2.5rem;
     letter-spacing: .8rem;
     -webkit-text-fill-color: #FFF;
